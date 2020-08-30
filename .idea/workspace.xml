@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="441543fe-429d-4fc9-8a97-89fc199f670c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/url_mappings.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/url_mappings.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/users/users_controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users/users_controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/users/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/domain/users/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/users_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/services/users_service.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g98kzctw41n5XZFzmGtX7qzVN6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\go-wrk\src\github.com\hojabri\bookstore_users-api\controllers\ping" />
+      <recent name="C:\go-wrk\src\github.com\hojabri\bookstore_users-api\controllers\users" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/hojabri/bookstore_users-api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_users-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/hojabri/bookstore_users-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/hojabri/bookstore_users-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Unmarshal user json to User struct using json.Unmarshal" />
+    <MESSAGE value="Unmarshal user json to User struct using (gin context).ShouldBindJSON(&amp;user)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unmarshal user json to User struct using (gin context).ShouldBindJSON(&amp;user)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="353" key="#Go_Modules" timestamp="1597850973030">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="432" y="353" key="#Go_Modules/0.0.2560.1040@0.0.2560.1040" timestamp="1597850973030" />
+    <state width="1234" height="281" key="GridCell.Tab.0.bottom" timestamp="1597894546459">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1597894546459" />
+    <state width="1234" height="281" key="GridCell.Tab.0.center" timestamp="1597894546459">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1597894546459" />
+    <state width="1234" height="281" key="GridCell.Tab.0.left" timestamp="1597894546459">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1597894546459" />
+    <state width="1234" height="281" key="GridCell.Tab.0.right" timestamp="1597894546459">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1597894546459" />
+    <state x="781" y="165" key="SettingsEditor" timestamp="1597516645175">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="165" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1597516645175" />
+  </component>
+</project>
